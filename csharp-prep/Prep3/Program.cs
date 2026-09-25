@@ -46,7 +46,7 @@ class Program
                 Console.WriteLine($"Congratulations! You guessed the Magic Number in {guesses} guess!");
             }
             
-            Console.WriteLine("Do you Want to play again? ");
+            Console.WriteLine("Do you Want to play again? (Response must be 'yes' to play again.) ");
             response = Console.ReadLine();
         }
     }
