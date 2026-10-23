@@ -12,7 +12,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-       // Exceeded the core requirements by connecting the program to the Open Scripture API.
+        // Exceeded the core requirements by connecting the program to the Open Scripture API.
         // Users can enter a scripture reference, including a single verse or a range of
         // verses, and the program retrieves the requested scripture text from the API.
         // The program validates the requested verses and allows users to try again if
