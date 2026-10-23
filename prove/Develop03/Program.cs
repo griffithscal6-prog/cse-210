@@ -42,7 +42,7 @@ class Program
             if (!match.Success)
             {
                 Console.WriteLine(
-                    "Invalid format. Try John 3:16 or Proverbs 3:5-6."
+                    "Invalid format. Try John 3:16, 1 Nephi 10:2, or Proverbs 3:5-6."
                 );
                 continue;
             }
